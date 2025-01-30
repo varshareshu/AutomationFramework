@@ -15,7 +15,7 @@ public class AddProductToCartAndValidate {
 
 	public static void main(String[] args, Object productToBeAdded) {
 		
-		int x=0;
+		int x=0;   
 		// step 1: Launch the browser
 		WebDriver driver = new EdgeDriver();
 		
