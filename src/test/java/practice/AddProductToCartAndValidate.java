@@ -17,6 +17,7 @@ public class AddProductToCartAndValidate {
 		
 		int x=0;
 		int vv=0;   
+	 int ymmm=0;
 		int yy=0;
 		int y = 0;  
 		// step 1: Launch the browser
